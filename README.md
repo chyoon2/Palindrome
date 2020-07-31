@@ -3,14 +3,13 @@
 #### By _**Chris Yoon, Erich Richter, Kate Skorija**_
 
 ## Description
-_What is backwards? What is forwards....
-
+What is backwards? What is forwards... This application will allow you to play with spelling words forwards and backwards.
 ## Setup/Installation Requirements 
 
 ### Via GitHub Download
 
 * _Navigate to www.github.com/chyoon2_
-* _Find the Super Galactic Age repository by search or scroll_
+* _Find the Palindrome repository by search or scroll_
 * _click Download repository_
 * _Navigate to the project folder that you have just downloaded_
 * _Open the index.html file in your preferred browser_
