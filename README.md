@@ -15,20 +15,14 @@ What is backwards? What is forwards... This application will allow you to play w
 * _Open the index.html file in your preferred browser_
 
 
-## Specs
-
-* Behavior: The Program will recieve a user input of a string.
-Input: "Hello"
-Output: N/A 
-
-* Behavior: The Program will check if the word is a palindrome.
-Input: "Hello"
-Output: N/A
-
-* Behavior: The Program will return true or false depending on if the user string is a palindrome.
-Input: "Hello"
-Output: "No that's not it pal"
-
+## _Behavior Specifications_
+| Behavior | Input | Output |
+| ---- | ---- | ---- |
+| The program takes a user input of a Medium | "Record/CD/Tape/MP3" | N/A |
+| The program takes a user input of Artist. | "Artist: John Pats" | N/A |
+| The program displays user inputs of Stylist and Client | N/A | "Pat: Stylist John"|
+| The program allows user to EDIT Artist input. | N/A | N/A |
+| The program allows user to DELETE Artist or Medium | N/A | N/A |
 
 
 ## Known Bugs
